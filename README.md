@@ -27,4 +27,4 @@ Bank authentication end to end app using Docker
 but then somehow I went to the docker app where I saw it was continuumio/anaconda3:latest. 
 
 9.use the port you are using in app as your host and publish port. it doesn't matter if you expose it or not
-docker run -p 3000:3000 money_api12
+docker run -p 3000:3000 money_api
